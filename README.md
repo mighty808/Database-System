@@ -5,15 +5,9 @@
 
 This repository contains the backend implementation of an Electronic Medical Record System for the University of Ghana Medical Center (UGMC). The system is designed to handle patient registration, encounter management, and vital sign tracking. It is built using Node.js with the Express framework for building REST APIs and MongoDB for data persistence.
 
-## Table of Contents
+## POST, PUT, GET requires were done
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Environment Variables](#environment-variables)
-- [License](#license)
+
 
 ## Features
 
