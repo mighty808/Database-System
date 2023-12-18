@@ -1,5 +1,6 @@
 # University of Ghana Medical Center Electronic Medical Record System
 
+## Effah Aboagye- 11353372
 ## Overview
 
 This repository contains the backend implementation of an Electronic Medical Record System for the University of Ghana Medical Center (UGMC). The system is designed to handle patient registration, encounter management, and vital sign tracking. It is built using Node.js with the Express framework for building REST APIs and MongoDB for data persistence.
@@ -42,8 +43,7 @@ project-root/
 |   |-- models/
 |   |-- routes/
 |   |-- services/
-|   |-- app.js
-|-- config/
-|-- .env
 |-- package.json
 |-- README.md
+
+
